@@ -1,0 +1,542 @@
+{
+  "category": "CRYPTID",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/yeren",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "yeren",
+    "name": "Yeren",
+    "aliases": [
+      {
+        "name": "Wild Man",
+        "language": "English translation",
+        "meaning": "Translation of Chinese name"
+      },
+      {
+        "name": "Ye Ren",
+        "language": "Chinese (Pinyin)",
+        "region": "China"
+      },
+      {
+        "name": "野人",
+        "language": "Chinese (Characters)",
+        "region": "China",
+        "meaning": "Wild person/man"
+      },
+      {
+        "name": "Shennongjia Wild Man",
+        "region": "Hubei Province",
+        "meaning": "Named after primary location"
+      }
+    ],
+    "category": "CRYPTID",
+    "subcategory": "Humanoid",
+    "tags": [
+      "humanoid",
+      "bipedal",
+      "wildman",
+      "china",
+      "hubei",
+      "primate",
+      "gigantopithecus-theory"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "A wildman cryptid reported primarily from mountainous forests of China, especially Hubei Province. Described as 6-7 feet tall, covered in reddish-brown hair with human-like face, walking upright on two legs. Subject of serious Chinese government scientific expeditions in 1970s-1980s.",
+      "full": "Yeren, meaning 'wild man' in Chinese, is a humanoid cryptid reported primarily from the Shennongjia Forestry District in Hubei Province, China, though reports exist from other remote mountain forests. Described as standing 6-7 feet tall, covered in reddish-brown hair with a human-like face and large feet, walking bipedally. Ancient Chinese texts reference wildmen, and modern sightings peaked in the 1970s-1980s. The phenomenon gained significant attention when the Chinese Academy of Sciences organized official expeditions in the 1970s-1980s, treating the search with scientific seriousness. Expeditions found hair samples claimed to be from unknown primates, footprints over 16 inches long, and collected witness testimonies. Some researchers theorize Yeren could be a descendant of Gigantopithecus, an extinct giant ape. The Shennongjia region established a nature reserve partially due to Yeren interest, and the search continues to attract researchers and tourists."
+    },
+    "etymology": {
+      "origin": "Chinese term combining ye (wild/savage) and ren (person/human)",
+      "meaning": "Wild man or wild person",
+      "first_use": "Ancient Chinese texts, formalized in modern era"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Humanoid",
+      "subtype": "Primate-like",
+      "variant": "East Asian"
+    },
+    "related_phenomena": [
+      {
+        "id": "yeti",
+        "name": "Yeti",
+        "relationship": "similar",
+        "description": "Himalayan equivalent, similar descriptions"
+      },
+      {
+        "id": "bigfoot",
+        "name": "Bigfoot",
+        "relationship": "similar",
+        "description": "North American wildman, similar characteristics"
+      },
+      {
+        "id": "almas",
+        "name": "Almas",
+        "relationship": "similar",
+        "description": "Central Asian wildman"
+      },
+      {
+        "id": "orang-pendek",
+        "name": "Orang Pendek",
+        "relationship": "similar",
+        "description": "Southeast Asian cryptid primate, smaller"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "height": {
+        "min": 1.8,
+        "max": 2.1,
+        "unit": "meters",
+        "confidence": "medium"
+      },
+      "weight": {
+        "min": 90,
+        "max": 150,
+        "unit": "kilograms",
+        "confidence": "low"
+      },
+      "coloration": [
+        "reddish-brown",
+        "brown",
+        "gray-brown"
+      ],
+      "features": [
+        {
+          "feature": "Body hair",
+          "description": "Covered in reddish-brown hair, thicker on back and shoulders",
+          "frequency": "always"
+        },
+        {
+          "feature": "Facial structure",
+          "description": "Human-like face, flatter than apes, some reports of heavy brow",
+          "frequency": "common"
+        },
+        {
+          "feature": "Bipedal locomotion",
+          "description": "Walks upright on two legs",
+          "frequency": "always"
+        },
+        {
+          "feature": "Large feet",
+          "description": "Footprints reported 16+ inches in length",
+          "frequency": "common"
+        },
+        {
+          "feature": "Build",
+          "description": "Muscular, human-like proportions",
+          "frequency": "common"
+        }
+      ],
+      "morphology": "Bipedal humanoid with human-like proportions. Covered in reddish-brown hair. Human-like face with possible archaic features. Large feet relative to body size. Muscular build."
+    },
+    "abilities": [
+      {
+        "ability": "Bipedal walking",
+        "description": "Primary mode of locomotion, upright walking",
+        "frequency": "always",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Tree climbing",
+        "description": "Some reports suggest climbing ability",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      },
+      {
+        "ability": "Vocalizations",
+        "description": "Reported to make howling or screaming sounds",
+        "frequency": "occasional",
+        "evidence_level": "reported"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "shy",
+      "social_structure": "variable",
+      "habitat_preference": [
+        "mountain forests",
+        "remote valleys",
+        "bamboo forests",
+        "high-altitude regions"
+      ],
+      "diet": "Presumed omnivorous",
+      "patterns": [
+        "Avoids human contact",
+        "Forest dwelling",
+        "Possible family groups",
+        "Nocturnal tendencies reported"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Primarily Hubei Province (Shennongjia Forestry District), with reports from other remote mountain forests in China including Shaanxi, Gansu, and other provinces.",
+      "continents": ["Asia"],
+      "countries": ["China"],
+      "regions": [
+        "Hubei Province (Shennongjia)",
+        "Shaanxi Province",
+        "Gansu Province",
+        "Remote mountain forests",
+        "Central-western China"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "Shennongjia Forestry District",
+        "location": {
+          "description": "Mountainous forest reserve, Hubei Province",
+          "country": "China",
+          "region": "Hubei",
+          "coordinates": {
+            "latitude": 31.75,
+            "longitude": 110.67,
+            "precision": "approximate"
+          }
+        },
+        "sighting_count": 400,
+        "peak_period": "1970s-1980s",
+        "notes": "Primary location, government expeditions, nature reserve established"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Ancient times",
+        "circa": true,
+        "source": "Ancient Chinese texts reference wildmen"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "1976-1981",
+          "description": "Peak sightings, Chinese Academy of Sciences expeditions"
+        },
+        {
+          "period": "1970s-1980s",
+          "description": "Government research era, organized investigations"
+        }
+      ],
+      "seasonal_patterns": "No clear seasonal pattern"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Ancient Chinese texts reference wildmen in remote mountains. Long-standing tradition of wild people in Chinese folklore and natural history.",
+      "earliest_accounts": "Ancient texts mention wildmen. Modern era documentation began in 20th century with increased sightings.",
+      "folklore_connections": "Connected to Chinese traditions of mountain spirits and wild people. Distinct from supernatural beings, often described as natural creatures."
+    },
+    "timeline": [
+      {
+        "date": "Ancient times",
+        "event": "Classical Chinese texts reference wildmen",
+        "significance": "Early literary evidence of wildman traditions",
+        "source": "Classical Chinese literature"
+      },
+      {
+        "date": "1970s",
+        "event": "Increased sightings in Shennongjia",
+        "significance": "Wave of modern sightings, public attention",
+        "source": "Chinese media reports"
+      },
+      {
+        "date": "1976",
+        "event": "Chinese Academy of Sciences expedition",
+        "significance": "First major scientific expedition, collected evidence",
+        "source": "CAS expedition reports"
+      },
+      {
+        "date": "1977-1981",
+        "event": "Multiple government expeditions",
+        "significance": "Systematic investigation, hair and footprint collection",
+        "source": "CAS and government documentation"
+      },
+      {
+        "date": "1980s",
+        "event": "Shennongjia Nature Reserve established",
+        "significance": "Protected area, partially motivated by Yeren interest",
+        "source": "Chinese government"
+      }
+    ],
+    "modern_era": "Shennongjia remains active research area with ongoing interest from researchers and tourists. Nature reserve provides conservation alongside cryptid research. Chinese government took phenomenon seriously with organized expeditions."
+  },
+
+  "sightings": {
+    "statistics": {
+      "total_documented": 400,
+      "verified": 0,
+      "disputed": 380,
+      "debunked": 20,
+      "date_range": {
+        "earliest": "Ancient times",
+        "latest": "2026"
+      }
+    },
+    "notable": [
+      {
+        "id": "yeren-sighting-1976-cas",
+        "name": "1976 Chinese Academy of Sciences Expedition",
+        "date": {
+          "value": "1976",
+          "precision": "year"
+        },
+        "location": {
+          "description": "Shennongjia Forestry District, Hubei Province",
+          "country": "China",
+          "region": "Hubei",
+          "coordinates": {
+            "latitude": 31.75,
+            "longitude": 110.67,
+            "precision": "approximate"
+          }
+        },
+        "witnesses": {
+          "count": "multiple",
+          "types": ["Scientists", "researchers", "local witnesses"],
+          "credibility_factors": ["Government-organized", "Scientific methodology", "Multiple evidence types"]
+        },
+        "description": "The Chinese Academy of Sciences organized an official expedition to Shennongjia following increased sighting reports. The expedition collected physical evidence including hair samples (claimed to be from unknown primate), footprints over 16 inches long, and feces samples. Researchers interviewed witnesses and documented sighting locations. Hair analysis reportedly showed characteristics not matching known primates in the region. Footprints showed bipedal gait with anatomical features distinct from known animals. The expedition was taken seriously by Chinese government and scientific community.",
+        "conditions": {
+          "weather": "Various",
+          "visibility": "Various",
+          "time_of_day": "Various",
+          "duration": "Multi-week expedition"
+        },
+        "evidence": [
+          "Hair samples (claimed unknown primate)",
+          "Footprint casts (16+ inches)",
+          "Feces samples",
+          "Witness testimonies",
+          "Photographic documentation of evidence"
+        ],
+        "credibility": {
+          "rating": "medium",
+          "factors": [
+            "Government-sanctioned scientific expedition",
+            "Professional methodology",
+            "Multiple evidence types collected",
+            "Hair analysis inconclusive (disputed claims)",
+            "No body or definitive proof",
+            "Footprints could be fabricated"
+          ],
+          "notes": "Most significant Yeren investigation. Government involvement lent credibility but no definitive proof obtained. Hair samples remain disputed - some analysts claimed unknown primate, others suggested known animals or contamination."
+        },
+        "sources": [
+          "Chinese Academy of Sciences expedition reports (1976)",
+          "Chinese scientific publications",
+          "Media coverage of expedition"
+        ],
+        "featured": true
+      }
+    ],
+    "database_path": "./sightings/"
+  },
+
+  "evidence": {
+    "physical": [
+      {
+        "id": "yeren-evidence-hair-1976",
+        "type": "hair samples",
+        "name": "1976 expedition hair samples",
+        "date": "1976",
+        "description": "Hair samples collected by Chinese Academy of Sciences, claimed to be from unknown primate",
+        "location": "Shennongjia",
+        "status": "disputed",
+        "analysis": "Some Chinese analysts claimed unknown primate characteristics. Not verified internationally. Could be known animals or contaminated samples.",
+        "source": "CAS expedition"
+      },
+      {
+        "id": "yeren-evidence-footprints",
+        "type": "footprints",
+        "name": "Large footprint casts",
+        "date": "1970s-1980s",
+        "description": "Footprints over 16 inches long showing bipedal gait",
+        "status": "disputed",
+        "analysis": "Some show anatomical features, but could be fabricated. Not conclusive.",
+        "source": "Multiple expeditions"
+      },
+      {
+        "id": "yeren-evidence-feces",
+        "type": "feces samples",
+        "name": "Feces samples",
+        "date": "1976-1980s",
+        "description": "Feces samples collected and analyzed",
+        "status": "disputed",
+        "analysis": "Inconclusive, no definitive identification",
+        "source": "CAS expeditions"
+      }
+    ],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+
+  "theories": {
+    "paranormal": [],
+    "scientific": [
+      {
+        "name": "Gigantopithecus descendant",
+        "description": "Yeren represents surviving population of Gigantopithecus, an extinct giant ape that lived in China. Fossils found in China date to ~300,000 years ago.",
+        "proponents": ["Some Chinese researchers", "Cryptozoologists"],
+        "evidence_cited": ["Gigantopithecus fossils in China", "Size matches", "Bipedal theory", "Geographic overlap"]
+      },
+      {
+        "name": "Unknown primate species",
+        "description": "Undiscovered primate species adapted to mountain forests",
+        "proponents": ["Some researchers"],
+        "evidence_cited": ["Hair samples (disputed)", "Remote habitat", "Consistent descriptions"]
+      },
+      {
+        "name": "Surviving archaic human",
+        "description": "Could be remnant population of Homo erectus or similar archaic human",
+        "proponents": ["Some researchers"],
+        "evidence_cited": ["Human-like features", "Bipedal locomotion", "China within H. erectus range"]
+      }
+    ],
+    "skeptical": [
+      {
+        "name": "Misidentification",
+        "description": "Sightings are misidentifications of known animals, particularly Asian black bears, Tibetan brown bears, or golden snub-nosed monkeys",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["Bears walk bipedally", "Known animals in region", "No body found"]
+      },
+      {
+        "name": "Folklore and cultural tradition",
+        "description": "Ancient wildman traditions influencing modern reports, cultural phenomenon",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["Ancient texts create expectations", "No physical specimen", "Tourism motivation"]
+      },
+      {
+        "name": "Hoaxes",
+        "description": "Fabricated evidence and false reports, possibly for tourism",
+        "proponents": ["Skeptics"],
+        "evidence_cited": ["Tourism industry in Shennongjia", "Some admitted hoaxes", "Footprints easy to fake"]
+      }
+    ]
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Ancient Chinese wildman traditions",
+        "Classical literature references to mountain people",
+        "Local Hubei folklore"
+      ],
+      "stories": [
+        "Ancient texts mentioning wildmen in mountains",
+        "Local legends of forest dwellers",
+        "Modern sighting accounts"
+      ],
+      "beliefs": "Varied - some consider real animals, others folklore. Ancient traditions distinguish between supernatural beings and natural wildmen."
+    },
+    "indigenous": {
+      "cultures": [
+        "Local Hubei communities",
+        "Mountain-dwelling ethnic minorities",
+        "Traditional forest knowledge holders"
+      ],
+      "significance": "Part of traditional knowledge of mountain regions. Some local communities matter-of-fact about existence.",
+      "sensitivity_note": "Respect local Chinese cultural traditions and knowledge systems.",
+      "respect_guidelines": "Consult local communities before research. Respect protected nature reserves."
+    },
+    "popular_culture": {
+      "literature": [
+        "Chinese scientific publications on Yeren",
+        "Various cryptozoology books",
+        "Academic papers from Chinese researchers"
+      ],
+      "film_tv": [
+        "Chinese documentaries",
+        "Western cryptozoology programs",
+        "News coverage of expeditions"
+      ],
+      "games": [],
+      "other": [
+        "Tourism industry in Shennongjia",
+        "Nature reserve establishment",
+        "Chinese government scientific interest"
+      ]
+    }
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Chinese Academy of Sciences teams",
+        "affiliation": "Chinese Academy of Sciences",
+        "contribution": "Multiple expeditions 1976-1980s, evidence collection, witness interviews",
+        "period": "1976-1980s"
+      },
+      {
+        "name": "Zhou Guoxing",
+        "affiliation": "Beijing Natural History Museum",
+        "contribution": "Yeren research and analysis",
+        "period": "1970s-1980s"
+      },
+      {
+        "name": "Wang Zelin",
+        "affiliation": "Chinese researcher",
+        "contribution": "Long-term Yeren investigation",
+        "period": "1970s-1990s"
+      }
+    ],
+    "organizations": [
+      {
+        "name": "Chinese Academy of Sciences",
+        "focus": "Official government expeditions and research (1970s-1980s)"
+      },
+      {
+        "name": "Shennongjia Nature Reserve",
+        "focus": "Conservation and incidental cryptid research"
+      }
+    ],
+    "ongoing_studies": "Shennongjia Nature Reserve continues to be area of interest. Tourism and conservation work provide opportunities for observation. Less intensive research than 1970s-1980s peak."
+  },
+
+  "sources": [
+    {
+      "id": "cas-1976",
+      "type": "expedition report",
+      "title": "Chinese Academy of Sciences Yeren Expedition",
+      "authors": ["Chinese Academy of Sciences"],
+      "date": "1976"
+    },
+    {
+      "id": "chinese-papers",
+      "type": "academic papers",
+      "title": "Various Chinese scientific papers on Yeren",
+      "authors": ["Zhou Guoxing", "Wang Zelin", "others"],
+      "date": "1970s-1980s",
+      "language": "Chinese"
+    },
+    {
+      "id": "shennongjia-documentation",
+      "type": "documentation",
+      "title": "Shennongjia Nature Reserve records",
+      "date": "1980s-present"
+    }
+  ]
+}
