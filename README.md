@@ -1,442 +1,217 @@
 # Yeren
 
-> *"In the mountains of China, the wild man endures."*
+> The Yeren (Chinese: 野人, 'wild man') is a hairy bipedal hominid cryptid reported from the remote mountain forests of central China, most famously the Shennongjia Forestry District of Hubei Province. It is the principal Chinese counterpart to Bigfoot and the Yeti.
 
-[![API Version](https://img.shields.io/badge/api-v1.0.0-blue)]()
-[![Last Updated](https://img.shields.io/badge/updated-2026--01--14-green)]()
-[![Sightings](https://img.shields.io/badge/sightings-400+-orange)]()
-[![Status](https://img.shields.io/badge/status-active-brightgreen)]()
+[![API Version](https://img.shields.io/badge/api-v1.1.0-blue)]() [![Last Updated](https://img.shields.io/badge/updated-2026-05-07-green)]() [![Sightings](https://img.shields.io/badge/sightings-400-orange)]() ![Status](https://img.shields.io/badge/status-active-blue)
 
 ---
-
 ## Quick Reference
 
 | Property | Value |
-|----------|-------|
+|---|---|
 | **ID** | `yeren` |
 | **Category** | CRYPTID |
-| **Classification** | Humanoid / Primate-like |
-| **First Recorded** | Ancient times (Chinese texts) |
-| **Primary Region** | Hubei Province, China (Shennongjia) |
-| **Status** | Active |
+| **Subcategory** | Humanoid / hominid cryptid |
+| **First recorded** | circa 340 BCE |
+| **Primary range** | Reports concentrate in the rugged, forested mountains of central China, especially the Shennongjia Forestry District in northwestern Hubei Province and adjacent Fang County |
+| **Status** | active |
 
 ---
-
 ## Overview
 
-Yeren, meaning "wild man" in Chinese, is a humanoid cryptid reported primarily from the Shennongjia Forestry District in Hubei Province, China, though reports exist from other remote mountain forests. Described as standing 6-7 feet tall, covered in reddish-brown hair with a human-like face and large feet, walking bipedally.
-
-Ancient Chinese texts reference wildmen, and modern sightings peaked in the 1970s-1980s. The phenomenon gained significant attention when the **Chinese Academy of Sciences organized official expeditions in the 1970s-1980s**, treating the search with scientific seriousness. Expeditions found hair samples claimed to be from unknown primates, footprints over 16 inches long, and collected witness testimonies.
-
-Some researchers theorize Yeren could be a descendant of Gigantopithecus, an extinct giant ape whose fossils have been found in China. The Shennongjia region established a nature reserve partially due to Yeren interest.
+Yeren, literally 'wild man' in Chinese, is a humanoid cryptid reported from remote, mountainous regions of central China — most famously the Shennongjia Forestry District in Hubei Province, but also the surrounding Fang County area, Shaanxi, and parts of Yunnan. Witnesses describe a bipedal creature standing more than two metres (6 ft) tall, covered in tawny or reddish-brown hair, with long arms reaching to the knees, large feet, and a face combining ape-like and human traits. Wildman-type figures appear in classical Chinese texts as early as Qu Yuan's Jiu Ge ('Nine Songs', 4th century BCE) and in later works such as the Yi Zhou Shu, the Erya, the Huainanzi (139 BCE), the Youyang Zazu (853 CE), and Li Shizhen's Bencao Gangmu / Compendium of Materia Medica (1578). A 1555 entry in the Fang County local gazetteer Fangxianzhi records yeren sheltering in caves and raiding villagers' livestock. Modern scientific interest peaked in a series of expeditions organised by the Chinese Academy of Sciences from the late 1970s through the 1980s — the so-called 'Yeren Fever' that followed the Cultural Revolution — including a major 1977 Shennongjia expedition led by Zhou Guoxing. The China Wildman Research Society was founded in 1981, offering bounties for specimens. No specimen, body, or peer-reviewed genetic confirmation has been produced; collected hair samples and footprints have been attributed to known animals (bears, macaques, gibbons). A minority of researchers, drawing on Mao Guangnian's relict-Gigantopithecus hypothesis, continue to argue for an undiscovered hominid.
 
 ---
+## Names & Aliases
 
-## Etymology & Names
+| Name | Origin | Meaning |
+|---|---|---|
+| 野人 | Chinese (Standard) | wild man |
+| Yěrén | Mandarin (pinyin) | wild man |
+| Chinese Wildman | English-language sources |  |
+| Shennongjia Wildman | Hubei, China |  |
+| Xingxing | Classical Chinese | early-text term often grouped with wildman / orang-utan-like beings |
+| Feifei | Classical Chinese | fast-moving wild creature in early Chinese texts |
 
-### Primary Name
-- **Yeren** (野人) — Chinese term meaning "wild man" or "wild person" (ye = wild/savage, ren = person/human), used in ancient texts and modern reports.
+## Etymology
 
-### Alternative Names
-
-| Name | Language/Region | Meaning |
-|------|-----------------|---------|
-| Wild Man | English | Direct translation |
-| Ye Ren | Pinyin romanization | Standard romanization |
-| Shennongjia Wild Man | Hubei Province | Named after primary location |
-
----
-
-## Classification
-
-### Taxonomy
-```
-Category: CRYPTID
-├── Type: Humanoid
-├── Subtype: Primate-like
-└── Variant: East Asian
-```
-
-### Related Phenomena
-
-| Phenomenon | Relationship | Description |
-|------------|--------------|-------------|
-| [Yeti](/yeti) | Similar | Himalayan equivalent, similar descriptions |
-| [Bigfoot](/bigfoot) | Similar | North American wildman |
-| [Almas](/almas) | Similar | Central Asian wildman |
-| [Orang Pendek](/orang-pendek) | Similar | Southeast Asian cryptid primate (smaller) |
+- **Origin**: The modern Chinese term 野人 (yěrén, 'wild man') was standardised through 20th-century ethnographic and zoological reporting, especially around the Shennongjia Forestry District. Earlier Chinese texts use related terms such as xingxing (猩猩) and feifei (狒狒).
+- **Meaning**: Literally 'wild person' or 'wild man'.
+- **First use**: The term in its modern Chinese-cryptid sense gains traction in the mid-20th century; older 'wildman' and 'mountain spirit' antecedents go back to Qu Yuan's Jiu Ge (4th century BCE).
 
 ---
+## Related Phenomena
 
-## Characteristics
+- [Bigfoot](../bigfoot/) — _similar_: North American hairy-hominid cryptid
+- [Yeti](../yeti/) — _similar_: Himalayan hairy-hominid cryptid
+- [Almas](../almas/) — _similar_: Central Asian / Mongolian hairy-hominid tradition
+- [Yowie](../yowie/) — _similar_: Australian hairy-hominid cryptid
+- [Orang Pendek](../orang-pendek/) — _similar_: Sumatran short bipedal cryptid
 
-### Physical Description
+---
+## Physical Description
 
-| Attribute | Description | Confidence |
-|-----------|-------------|------------|
-| **Height** | 1.8 - 2.1 meters (6 - 7 feet) | Medium |
-| **Weight** | 90 - 150 kg (198 - 330 lbs) | Low |
-| **Coloration** | Reddish-brown, brown, gray-brown | Medium |
-| **Build** | Muscular, human-like proportions | Medium |
+- **Height**: 2–2.4 meters _(low confidence)_
+- **Coloration**: tawny, reddish-brown, dark brown
+- **Morphology**: Reports describe a large bipedal hominid with apelike body proportions (long arms, no neck) and a face intermediate between great ape and human. No specimen has been examined.
 
-### Distinguishing Features
+### Features
 
 | Feature | Description | Frequency |
-|---------|-------------|-----------|
-| Body hair | Reddish-brown hair, thicker on back and shoulders | Always |
-| Facial structure | Human-like face, flatter than apes, some reports of heavy brow | Common |
-| Bipedal locomotion | Walks upright on two legs | Always |
-| Large feet | Footprints reported 16+ inches in length | Common |
-| Build | Muscular, human-like proportions | Common |
+|---|---|---|
+| Bipedal locomotion | Reported to walk upright on two legs | always |
+| Hair-covered body | Body covered in tawny or reddish-brown hair, often described as longer on the scalp | always |
+| Tall stature | Witnesses typically estimate 2 m or more in height | common |
+| Long arms | Arms reportedly hang to the knees, an apelike intermembral proportion | common |
+| Large feet | Footprints reported to exceed 40 cm (16 in) in length in some cases | common |
+| Ape-and-human face | Face described as combining ape-like and human-like features | common |
 
-### Reported Abilities
+## Reported Abilities
 
-| Ability | Description | Evidence Level |
-|---------|-------------|----------------|
-| Bipedal walking | Primary mode of locomotion, upright | Reported |
-| Tree climbing | Some reports suggest climbing ability | Reported |
-| Vocalizations | Howling or screaming sounds reported | Reported |
+| Ability | Description | Frequency | Evidence |
+|---|---|---|---|
+| Strength and speed | Classical and modern accounts emphasise the creature's strength and rapid movement through mountain terrain | common | folklore |
+| Vocalisations | Witnesses describe loud howls and laugh-like sounds; classical accounts of feifei mention laughing on encountering humans | occasional | reported |
+| Cave-dwelling and village raiding | Both classical (Fangxianzhi 1555) and 20th-century accounts describe yeren sheltering in mountain caves and occasionally raiding livestock | occasional | folklore |
 
-### Behavioral Patterns
+## Behavior
 
-- **Activity Period**: Variable (diurnal and nocturnal reports)
-- **Disposition**: Shy (avoids humans)
-- **Social Structure**: Variable (solitary and groups reported)
-- **Habitat Preference**: Mountain forests, remote valleys, bamboo forests
-- **Diet**: Presumed omnivorous
-- **Notable Behaviors**: Forest dwelling, avoids contact, possible family groups
-
----
-
-## Geographic Distribution
-
-### Primary Range
-
-Primarily Hubei Province (Shennongjia Forestry District), with reports from other remote mountain forests in China including Shaanxi, Gansu, and other provinces in central-western China.
-
-### Sighting Hotspots
-
-| Location | Region | Sighting Count | Notable Period |
-|----------|--------|----------------|----------------|
-| Shennongjia Forestry District | Hubei Province | 400+ | 1970s-1980s |
-| Shaanxi Province | Central China | 50+ | Various |
-| Gansu Province | Central China | 30+ | Various |
-
-### Distribution Notes
-
-- Concentrated in Shennongjia (UNESCO World Heritage Site)
-- Mountainous, forested regions
-- Remote, difficult-to-access areas
-- High biodiversity regions
-- Protected nature reserves
+- **Activity**: variable
+- **Disposition**: variable
+- **Social structure**: variable
+- **Habitat**: remote temperate mountain forest, limestone karst caves, the Shennongjia Forestry District (Hubei), Daba and Qinling mountain ranges
+- **Diet**: Reported as omnivorous in 20th-century accounts; classical sources describe raiding livestock (chickens, dogs)
 
 ---
+## Distribution
 
+Reports concentrate in the rugged, forested mountains of central China, especially the Shennongjia Forestry District in northwestern Hubei Province and adjacent Fang County. Additional reports come from Shaanxi (notably referenced in Yuan Mei's 1788 Zibuyu) and from a 1962 Chinese Academy of Sciences investigation in the Xishuangbanna Dai Autonomous Prefecture of Yunnan.
+
+### Hotspots
+
+| Location | Region | Sightings | Peak |
+|---|---|---|---|
+| Shennongjia Forestry District | Hubei, China |  | 1976–1988 |
+| Fang County (Fangxian) | Hubei, China |  | 1555–present |
+
+---
 ## Historical Timeline
 
-### Origins
-
-Ancient Chinese texts reference wildmen in remote mountains. Long-standing tradition of wild people in Chinese folklore and natural history, distinct from supernatural beings.
-
-### Key Events
-
 | Date | Event | Significance |
-|------|-------|--------------|
-| Ancient times | Classical Chinese texts reference wildmen | Early literary evidence |
-| 1970s | Increased sightings in Shennongjia | Wave of modern sightings, public attention |
-| 1976 | Chinese Academy of Sciences expedition | First major scientific expedition, collected evidence |
-| 1977-1981 | Multiple government expeditions | Systematic investigation, hair and footprints |
-| 1980s | Shennongjia Nature Reserve established | Protected area, partially motivated by Yeren |
+|---|---|---|
+| circa 340 BCE | Qu Yuan's Jiu Ge references a 'mountain spirit' that is later read as a wildman antecedent | Earliest Chinese textual reference in the wildman lineage |
+| 139 BCE | The Huainanzi (commentary by Gao Yu) describes the xingxing as having a human face but the body of a beast | Classical-era articulation of an ape-like wildman figure |
+| 853 | Duan Chengshi's Youyang Zazu describes feifei in detail | Tang-dynasty consolidation of wildman lore |
+| 1555 | Fangxianzhi (Fang County gazetteer) records yeren sheltering in mountain caves and raiding villagers' livestock | Earliest specifically modern-style yeren account |
+| 1578 | Li Shizhen's Bencao Gangmu (Compendium of Materia Medica) discusses yeren among wild creatures | Encyclopaedic Ming-era reference |
+| 1962 | Wu Rukang leads a Chinese Academy of Sciences investigation of apeman reports in Xishuangbanna, Yunnan, attributing them to misidentified gibbons | Early modern scientific dismissal |
+| 1977 | Major Chinese Academy of Sciences expedition to Shennongjia, led by Zhou Guoxing, with military, zoologists, biologists, and photographers | Highest-profile state-organised yeren expedition |
+| 1981 | China Wildman Research Society founded; offers ¥5,000 for a dead yeren and ¥10,000 for a live one | Institutionalises post-Mao yeren research |
 
-### Modern Era
+---
+## Notable Sightings
 
-Shennongjia remains active research area with ongoing interest from researchers and tourists. Nature reserve provides conservation alongside cryptid research. Chinese government took phenomenon seriously with organized scientific expeditions.
+### Fangxianzhi 1555 record ⭐
+> **Date**: 1555-01-01  
+> **Location**: Mountains of Fang County  
+> **Witnesses**: 0 (Local gazetteer compilers)  
+The Fang County local gazetteer records a group of yeren sheltering in mountain caves and preying on villagers' dogs and chickens.
+**Credibility**: low — Notable as the earliest specifically modern-style account of yeren behaviour.
+**Sources**: Fangxianzhi (1555)
 
 ---
 
-## Notable Cases
-
-### 1976 Chinese Academy of Sciences Expedition ⭐
-
-> **Date**: 1976
-> **Location**: Shennongjia Forestry District, Hubei Province
-> **Researchers**: Chinese Academy of Sciences team
-> **Evidence**: Hair samples, footprints, feces, witness testimonies
-
-The Chinese Academy of Sciences organized an official government expedition to Shennongjia following increased sighting reports in the 1970s. This marked a significant moment in cryptozoology: a major government scientific institution taking wildman reports seriously.
-
-**Evidence Collected**:
-- **Hair samples**: Claimed to be from unknown primate (disputed)
-- **Footprints**: Over 16 inches long, showing bipedal gait
-- **Feces samples**: Collected and analyzed (inconclusive)
-- **Witness testimonies**: Multiple interviews documented
-- **Photographic documentation**: Of evidence and sighting locations
-
-**Analysis**:
-- Hair analysis reportedly showed characteristics not matching known regional primates
-- Some Chinese analysts claimed unknown primate features
-- International verification limited
-- Footprints showed anatomical features but could be fabricated
-- No body or definitive proof obtained
-
-**Subsequent Expeditions**:
-- 1977-1981: Multiple follow-up expeditions
-- Additional evidence collected
-- Continued government support
-- Nature reserve established
-
-**Credibility Assessment**: Medium — Government-sanctioned scientific expedition with professional methodology and multiple evidence types. However, no definitive proof obtained. Hair samples remain disputed (some claimed unknown primate, others suggested known animals or contamination). Represents most serious institutional investigation of wildman cryptid.
-
----
-
-*See [/sightings](/sightings) for complete sighting database.*
-
----
 
 ## Evidence
 
-### Physical Evidence
+### Physical
 
-| Type | Description | Status |
-|------|-------------|--------|
-| Hair samples (1976) | Claimed unknown primate by some Chinese analysts | Disputed |
-| Footprint casts | 16+ inches, bipedal gait, multiple specimens | Disputed |
-| Feces samples | Collected 1976-1980s, analyzed | Inconclusive |
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Shennongjia hair samples |  | Hair samples collected during 1970s–1980s Chinese Academy of Sciences expeditions and subsequent fieldwork. | debunked |
+| Shennongjia footprint casts |  | Footprint casts collected in Shennongjia, some reported in excess of 40 cm in length. | disputed |
+### Documentary
 
-### Analysis Notes
-
-**Hair Samples**:
-- Some Chinese analysts claimed characteristics not matching known primates
-- Not independently verified internationally
-- Could be known animals (bears, monkeys) or contaminated
-- Remain subject of debate
-
-**Footprints**:
-- Show anatomical features suggesting bipedal primate
-- Size (16+ inches) larger than known regional primates
-- Could be fabricated
-- Similar to other wildman footprint reports globally
-
-**No Conclusive Evidence**:
-- No body or bones
-- No clear photographs or video
-- No DNA conclusively identified as unknown species
+| Name | Date | Description | Status |
+|---|---|---|---|
+| Fangxianzhi (1555 gazetteer) |  | Ming-era county gazetteer entry recording yeren in mountain caves preying on villagers' livestock. | verified |
+| Bencao Gangmu (1578) |  | Li Shizhen's Compendium of Materia Medica references yeren among wild creatures. | verified |
 
 ---
-
 ## Theories & Explanations
 
-### Cryptozoological Theories
+### Scientific
 
-1. **Gigantopithecus Descendant**
-   Yeren represents surviving population of Gigantopithecus, an extinct giant ape. Gigantopithecus fossils found in China date to ~300,000 years ago. Geographic overlap, size estimates consistent.
-   
-   **Problems**: Gigantopithecus thought to be quadrupedal, not bipedal. Extinct for hundreds of thousands of years. No recent fossils.
+**Relict Gigantopithecus** _(Mao Guangnian, Jeffrey Meldrum (sympathetic discussion))_
 
-2. **Unknown Primate Species**
-   Undiscovered primate species adapted to mountain forests. China's vast, remote forests could harbor unknown species.
-   
-   **Supporting**: China regularly yields new species discoveries. Remote habitat suitable. Consistent descriptions.
+Yeren are a relict population descended from the giant fossil ape Gigantopithecus, which is known from Pleistocene fossils in southern China.
 
-3. **Surviving Archaic Human**
-   Could be remnant population of Homo erectus or similar archaic human. China within H. erectus historical range. Human-like features in descriptions.
+**Relict Neanderthal hypothesis** _(Boris Porshnev)_
 
-### Skeptical Explanations
+Soviet historian Boris Porshnev suggested East Asian wildmen might be relict Neanderthals, though this was already a fringe view at the time.
 
-1. **Misidentification**
-   Sightings are misidentifications of known animals:
-   - **Asian black bears**: Walk bipedally, similar size, reddish fur
-   - **Tibetan brown bears**: Large, can walk upright
-   - **Golden snub-nosed monkeys**: Unusual appearance, remote habitat
-   
-2. **Folklore and Cultural Tradition**
-   Ancient wildman traditions influencing modern reports. Cultural expectations creating pattern recognition.
+**Undescribed Asian hominoid** _(Li Jian, Liu Minzhuang)_
 
-3. **Hoaxes and Tourism**
-   Fabricated evidence and false reports, possibly motivated by tourism to Shennongjia. Some admitted hoaxes. Footprints easy to fake.
+An unknown great-ape or hominid persisting in the most remote Chinese mountain forests; broadly the position of researchers who continued fieldwork after the 1980s.
 
----
+### Skeptical
 
-## Cultural Significance
+**Misidentification of known animals** _(Wu Rukang, mainstream Chinese zoologists)_
 
-### Historical Context
+Yeren reports are best explained as misidentifications of Asian black bears, Himalayan brown bears, Tibetan blue bears, macaques, gibbons, and ungulates such as goral and serow.
 
-**Ancient Chinese Texts**:
-- Classical literature mentions wildmen in mountains
-- Distinguished between supernatural beings and natural wildmen
-- Part of traditional natural history knowledge
+**Cultural and political artefact** _(Sigrid Schmalzer (historian of Chinese science))_
 
-**Modern Chinese Interest**:
-- Government took seriously enough to fund expeditions
-- Scientific institutions involved
-- Nature reserve establishment
-- Tourism development
+The post-1976 'Yeren Fever' is read as a cultural reaction to the Cultural Revolution — a redirection of scientific and popular energy into a charismatic mystery — rather than as evidence of a real animal.
 
-### Chinese Government Involvement
 
-The Yeren phenomenon is unique for serious government scientific attention:
+## Popular Culture
 
-1. **Chinese Academy of Sciences Expeditions** (1976-1981)
-   - Official government funding
-   - Professional scientific methodology
-   - Evidence collection and analysis
-   - Published reports
+**Literature**: Sino-Platonic Papers, 'The Wildman of China: The Search for the Yeren' (Sino-Platonic Papers no. 309); Sigrid Schmalzer, 'The People's Peking Man' (University of Chicago Press, 2008)
 
-2. **Shennongjia Nature Reserve** (established 1980s)
-   - UNESCO World Heritage Site (2016)
-   - Conservation area
-   - Partially motivated by Yeren interest
-   - Protects biodiversity and potential habitat
+**Film / TV**: Various Chinese-language documentaries on Shennongjia and yeren
 
-3. **Ongoing Interest**
-   - Tourism industry
-   - Continued research opportunities
-   - Cultural significance
-
-### Popular Culture
-
-**Literature**:
-- Chinese scientific publications
-- Academic papers from Chinese researchers
-- Cryptozoology books (Chinese and international)
-
-**Film/TV**:
-- Chinese documentaries
-- Western cryptozoology programs
-- News coverage of expeditions
-
-**Other**:
-- Tourism industry in Shennongjia
-- Educational exhibits
-- Cultural heritage
+**Other**: Yeren-themed tourism and signage at Shennongjia World Geopark, including a mother-and-child yeren statue at the park entrance
 
 ---
+## Research
 
-## Research & Investigation
+### Researchers
 
-### Notable Researchers
-
-| Name | Affiliation | Contribution |
-|------|-------------|--------------|
-| Chinese Academy of Sciences teams | Chinese Academy of Sciences | Multiple expeditions 1976-1980s |
-| Zhou Guoxing | Beijing Natural History Museum | Yeren research and analysis |
-| Wang Zelin | Chinese researcher | Long-term Yeren investigation |
+| Name | Affiliation | Contribution | Period |
+|---|---|---|---|
+| Pei Wenzhong | Chinese paleoanthropologist | Communicated apeman reports to Soviet colleagues; helped legitimise yeren as a topic of scientific attention | 1950s–1960s |
+| Wu Rukang | Chinese Academy of Sciences (paleoanthropology) | Led the 1962 Yunnan investigation; attributed reports to misidentified gibbons | 1960s |
+| Mao Guangnian | Chinese scholar | Articulated the relict-Gigantopithecus hypothesis for yeren | 1970s–1980s |
+| Li Jian | Shennongjia Prefectural Propaganda Department (vice secretary) | Recorded the 1974 testimonies and built the Shennongjia witness corpus; nicknamed 'The Minister of Yeren' | 1970s–1990s |
+| Liu Minzhuang | East China Normal University | Long-running academic engagement with yeren; nicknamed 'The Professor of Yeren' | 1970s–2000s |
+| Zhou Guoxing | Chinese Academy of Sciences | Led the 1977 Shennongjia expedition; later reported a 2,000-year-old lantern decorated with a hairy-man motif (1982) | 1970s–1980s |
+| Jia Lanpo | Chinese paleoanthropologist | Helped establish the China Wildman Research Society in 1981 | 1980s |
+| Jeffrey Meldrum | Idaho State University (anatomy and anthropology) | Western academic discussion of yeren footprint evidence | 2000s–present |
 
 ### Organizations
 
-- **Chinese Academy of Sciences** — Official government expeditions (1970s-1980s)
-- **Shennongjia Nature Reserve** — Conservation and incidental research
+- [China Wildman Research Society](#) — Founded 1981; coordinated Chinese yeren research and offered specimen bounties
+- [Chinese Academy of Sciences](https://english.cas.cn) — Organiser of the 1962 Yunnan and 1977 Shennongjia expeditions
 
-### Ongoing Studies
-
-Active research includes:
-- Shennongjia Nature Reserve monitoring
-- Tourism and conservation work providing observation opportunities
-- Less intensive than 1970s-1980s peak
-- Continued cultural interest
+Mainstream Chinese science largely set yeren research aside after the late 1980s. Continuing work is dominated by independent Chinese researchers based around Shennongjia, with occasional Western academic contributions (notably Jeffrey Meldrum's footprint analyses).
 
 ---
+## Sources
 
-## Shennongjia: Biodiversity Hotspot
+See [SOURCES.md](SOURCES.md) for the complete bibliography.
 
-**Why Shennongjia Is Significant**:
-
-1. **Biodiversity**: UNESCO World Heritage Site with exceptional biodiversity
-2. **Endemic Species**: Home to many endemic and rare species
-3. **Remote Habitat**: Vast, largely unexplored forest areas
-4. **Conservation**: Protected status preserves ecosystem
-5. **New Discoveries**: Region yields new species regularly
-
-**Known Wildlife**:
-- Golden snub-nosed monkey (endangered)
-- Asian black bear
-- Clouded leopard
-- Chinese giant salamander
-- 5,000+ plant species
-- 600+ vertebrate species
-
-**Could It Hide Yeren?**:
-- Pro: Large, remote, biodiversity-rich habitat
-- Con: No physical evidence despite conservation work and tourism
-
----
 
 ## How to Report a Sighting
 
-If you've witnessed Yeren, please submit a report:
-
 1. **GitHub Issue**: [Submit Sighting Report](../../issues/new?template=sighting_report.yml)
-2. **Required Information**:
-   - Date and time (as precise as possible)
-   - Exact location (coordinates preferred)
-   - Weather conditions
-   - Detailed description
-   - Any evidence (photos, video, footprints)
-   - Witness information (can be anonymized)
-
-See [Contributing Guidelines](https://github.com/wyrdness/.github/blob/main/CONTRIBUTING.md) for full submission requirements.
+2. Provide date, location, witnesses, description, conditions, and any evidence.
 
 ---
-
-## API Reference
-
-Machine-readable data is available in [`api.json`](api.json).
-
-### Data Access
-
-```javascript
-// Using WyrdnessAPI
-const wyrd = new WyrdnessAPI();
-const yeren = await wyrd.getPhenomenon('yeren');
-const sightings = await wyrd.getSightings('yeren');
-```
-
-### Direct Access
-
-```
-Raw JSON: https://raw.githubusercontent.com/wyrdness/yeren/main/api.json
-```
-
----
-
-## Sources & References
-
-See [SOURCES.md](SOURCES.md) for complete bibliography.
-
-### Primary Sources
-
-- Chinese Academy of Sciences (1976-1981). Expedition reports
-- Zhou Guoxing & Wang Zelin. Chinese scientific papers
-- Shennongjia Nature Reserve documentation
-
-### Databases
-
-- Chinese scientific literature (1970s-1980s)
-- Shennongjia Nature Reserve records
-
----
-
-## Changelog
-
-| Version | Date | Changes |
-|---------|------|---------|
-| 1.0.0 | 2026-01-14 | Initial release |
-
-See [CHANGELOG.md](CHANGELOG.md) for full history.
-
----
-
 ## License
 
-- **Content**: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **Data**: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
+Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+Data: [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)  
 
 ---
-
-<div align="center">
-
-*Part of the [Wyrdness](https://github.com/wyrdness) Paranormal Archive*
-
-[Report Sighting](../../issues/new?template=sighting_report.yml) • [Suggest Correction](../../issues/new?template=correction.yml) • [Full API](api.json)
-
-</div>
+_Auto-generated from `api.json`. Do not edit by hand — edit `api.json` and run `make repo-docs`._
